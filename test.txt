@@ -1,0 +1,1 @@
+{"state":"success","desc":{"rank":"竞技场排名","user_id":"角色ID","name":"角色名称","sex":"角色性别","career":"角色职业","level":"角色等级","force":"角色战斗力"},"data":[{"rank":1,"user_id":1000001,"name":"﻿露朱迪","sex":1,"career":1,"level":30}]}
