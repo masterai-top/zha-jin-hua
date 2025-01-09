@@ -1,5 +1,5 @@
 # zha-jin-hua
-炸金花棋牌游戏源码出售，里面包含炸金花游戏和多个游戏，红黑大战，飞禽走兽等。全套代码出售，客户端代码+服务器代码+后台全套源码； 联系TG:@xuzongbin001
+炸金花棋牌游戏源码出售，里面包含炸金花游戏和多个游戏，红黑大战，飞禽走兽等。全套代码出售，客户端代码+服务器代码+后台全套源码； 联系Telegram：@xuzongbin001或E-mail：taibaibaba1314@gmail.com
 
 
 ![红黑大战1_1](https://github.com/user-attachments/assets/c88c550e-c07b-4ce2-bf49-def82630a091)
